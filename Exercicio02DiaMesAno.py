@@ -1,0 +1,5 @@
+print('----Desafio 02----')
+dia = input('Digite o seu dia :')
+mes = input('Digite o seu mes:')
+ano = input('digite o seu ano:')
+print('Você naceu no  ',dia,mes,ano)
